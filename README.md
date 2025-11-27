@@ -1,7 +1,7 @@
 
 ---
-
-# 📰 Korean News Summarization
+# transformers_Text_Summarizer
+## 📰 Korean News Summarization
 
 ## 프로젝트 개요
 
