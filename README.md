@@ -6,7 +6,7 @@
 
 ## 📌 프로젝트 소개
 
-Hugging Face Transformers 모델을 활용해 한국어 뉴스 기사를 자동으로 요약 하는 프로젝트입니다.
+Hugging Face Transformers 모델을 활용해 한국어 뉴스 기사를 자동으로 요약 하는 프로젝트.
 
 * 데이터셋: `naver-news-summarization-ko`
 * 입력: 뉴스 기사 (`passage`)

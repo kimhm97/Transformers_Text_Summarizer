@@ -1,3 +1,14 @@
-venv_gpu/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv_gpu/
+
+# PyCharm
+.idea/
+
+# CSV/데이터
+*.csv
