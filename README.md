@@ -85,7 +85,7 @@ python src/run_summarization.py
 
 ## 💻 핵심 기능
 
-### batch_summarize
+### summarize
 
 * **설명:** 배치 단위로 요약 → GPU 메모리 효율 최적화
 * **주요 파라미터:**
