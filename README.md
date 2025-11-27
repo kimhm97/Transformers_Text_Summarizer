@@ -39,38 +39,6 @@ transformers_Text_Summarizer/
 
 ---
 
-## ⚙️ 설치 방법
-
-```bash
-# 깃허브에서 프로젝트 클론
-git clone <your-repo-url>
-cd transformers_Text_Summarizer
-
-# 가상환경 생성
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-
-# 라이브러리 설치
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 사용 방법
-
-```bash
-cd src
-python run_summarization.py
-```
-
-* 처리 완료 시 `data/processed/train_summarized.csv`에 요약 결과 저장
-* GPU 사용 가능 시 자동으로 GPU로 실행
-
----
-
 ## 🧠 모델 정보
 
 | 항목 | 내용                        |
